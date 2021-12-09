@@ -1,2 +1,2 @@
 # MySLAM
-My SLAM learning progress。
+My SLAM learning progress.
